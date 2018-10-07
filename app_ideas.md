@@ -25,5 +25,17 @@ Flash cards
 
 ## Top 3 New App Ideas
 1. News
+- **Category**: News.
+- **Mobile**: 
+- **Market**: For anybody who wants to keep up with what's going on in the world and locally. This apps lets you sort your news by the sources of your preference as well as what kind of news; Tech news, sports, Gaming, Etc.
+- **Habit**: For those who want to be informed with their interests, hobbies, or anything that's happening in the world!
+- **Scope**:
 2. OCR Translator
 3. Parking Tracker
+- **Category**: Commute/Communal.
+- **Mobile**: uses Google park memory and similar to Pokemon Go movement sensibility.
+- **Market**: for any persons who drives a car and has to commute/travel to a certain 
+location where costumer parking is not provided.
+- **Habit**: Users can use the app anytime they go out.
+- **Scope**: This apps pretends to help people spend less time finding parking spots so they can have more time doing their daily interests and tasks.
+
